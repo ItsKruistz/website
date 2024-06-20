@@ -4,6 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.primary-button {
-  @apply inline-flex text-white bg-cyan-500 border-0 py-1.5 px-3.5 focus:outline-none hover:bg-cyan-400 rounded-lg font-medium font-figtree;
+.drawer-item {
+  @apply rounded-full text-base font-medium p-2.5;
 }
