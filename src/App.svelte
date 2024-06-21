@@ -6,7 +6,7 @@
     </label>
   </div>
   <div class="flex-1">
-    <a class="btn btn-ghost text-xl font-figtree">Kruistz's Page</a>
+    <a class="btn btn-ghost text-xl font-figtree no-animation">Kruistz's Page</a>
   </div>
   <div class="flex-none">
     <label class="swap swap-rotate btn-square btn-ghost">
