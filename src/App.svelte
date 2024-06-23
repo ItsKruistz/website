@@ -57,7 +57,7 @@
   </div> 
   <div class="drawer-side z-50">
     <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-    <ul class="menu p-[8px] w-80 min-h-full bg-base-200 text-base-content">
+    <ul class="menu p-2 w-80 min-h-full bg-base-200 text-base-content">
       <!-- Sidebar content here -->
       <li><a class="drawer-item">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="main-grid-item-icon w-5 h-5 fill-stroke mr-1.5 ml-2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
