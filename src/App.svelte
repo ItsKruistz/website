@@ -1,5 +1,5 @@
 <main>
-  <div class="navbar bg-base-100 sticky top-0 z-10">
+  <div class="navbar bg-base-100 sticky top-0 z-10 p-1">
   <div class="flex-none">
     <label for="my-drawer" class="btn btn-square btn-ghost drawer-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="main-grid-item-icon inline-block w-5 h-5 stroke-current" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
