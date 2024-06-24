@@ -9,5 +9,5 @@ body {
 }
 
 .drawer-item {
-  @apply rounded-full text-base font-medium font-figtree p-2.5;
+  @apply rounded-full text-base font-medium p-2.5;
 }
