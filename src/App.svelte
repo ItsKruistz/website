@@ -49,7 +49,7 @@
   <circle cx="5" cy="12" r="1" />
 </svg>
 </div>
-    <ul tabindex="0" class="menu dropdown-content bg-base-100 rounded-box z-[1] w-52 p-2 shadow">
+    <ul tabindex="0" class="menu dropdown-content bg-base-100 rounded-box z-[1] w-52 p-0 shadow [&_li>*]:rounded-none">
     <li><a>Item 1</a></li>
     <li><a>Item 2</a></li>
   </ul>
