@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  @apply font-figtree;
+}
+
 .drawer-item {
   @apply rounded-full text-base font-medium font-figtree p-2.5;
 }
