@@ -11,3 +11,7 @@ body {
 .drawer-item {
   @apply rounded-full text-base font-medium p-2.5;
 }
+
+.navbar {
+  @apply h-2;
+}
